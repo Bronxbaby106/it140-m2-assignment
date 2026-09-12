@@ -1,35 +1,11 @@
-# Assignment 2-3 Part B – IDE Features Reflection
+Assignment 2-3 Part B – IDE Features Reflection
 
-## Introduction
+Completing my first programming assignment with the course IDE made me feel more comfortable writing, running, and testing Python code. At first, I found the IDE unfamiliar since I had to figure out where to type my code, how to save my work, and how to check if my program worked. The IDE gave me a tidy workspace to write my program and fix mistakes as I went. This was especially helpful when I made the name-age program because I could focus on each step, like entering the user’s name, entering their age, calculating the birth year, and showing the final message. Using the IDE also taught me that programming takes patience, practice, and close attention to detail.
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+One feature I found helpful in the IDE was syntax highlighting. It shows different parts of the code in different colors, like Python keywords, strings, comments, and functions. This made it easier for me to see how my code was organized and what each part did. For example, I could spot functions like input(), int(), and print() as I worked on my program. Comments also stood out because they looked different from the rest of the code. Syntax highlighting helped me catch mistakes, like missing quotation marks or typing errors, and made my code easier to read. It also helped me see how all the parts of my program fit together.
 
-TODO: Replace with your introduction here.
+Code completion was another useful feature. It gives suggestions as you type, which helps with spelling functions, commands, and other parts of the code. As a beginner, this helped me avoid typing mistakes and remember how to write Python statements correctly. For example, code completion made it easier to use functions like print() and input(). It also sped up my work since I didn’t have to remember every command. Seeing the suggestions reminded me of things I had practiced in zyBooks. This feature will be even more helpful as I write longer programs with more variables and functions.
 
-## Feature 1 – TODO: Replace with name of your Feature1
-
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
-
-TODO: Replace with your Feature 1 paragraph here.
-
-## Feature 2 – TODO: Replace with name of your Feature2
-
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
-
-## Conclusion
-
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Being able to run and test my code was another important IDE feature. Running my program let me enter a name and age and check whether the output matched what the assignment asked for. If there was an error or the result was wrong, I could go back, find the problem, fix it, and try again. This taught me how important testing and debugging are in programming. The examples and practice in zyBooks helped me learn about variables, user input, integers, calculations, and formatted output. Using the IDE let me put those ideas into practice in a real Python program. Overall, the IDE made programming feel more organized and helped me get better at writing code, finding mistakes, and solving problems.
+## Reference
+zyBooks. (n.d.). *IT 140: Introduction to Scripting
